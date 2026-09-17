@@ -7,7 +7,7 @@ used textbooks, dorm equipment, and project components.
 
 - React + Vite
 - FastAPI
-- SQLite
+- postgreSQL
 - Cloudinary / Local Storage
 
 ## Core Features
