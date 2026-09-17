@@ -18,7 +18,7 @@ It serves as the source of truth for:
 * Columns and data types
 * Primary keys
 * Foreign keys
-* Relationship
+* Relationships
 * Required and optional fields
 * Constraints
 * Indexes
