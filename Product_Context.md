@@ -6,7 +6,7 @@
 
 ## 1. Product
 
-### 1.1 Official Product Name
+### 1.1 Official Product Nam
 **Campus Marketplace & Resource Hub**
 
 ### 1.2 Short Name
