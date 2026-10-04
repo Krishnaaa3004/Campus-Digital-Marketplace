@@ -1,6 +1,6 @@
 # Campus Marketplace & Resource Hub — Product Context
 
-> **Purpose:** This document is the temporary source of truth for understanding the Campus Marketplace & Resource Hub product. Future development discussions should use this document as the baseline and should not introduce conflicting technology or product assumptions without explicitly discussing the change.
+> **Purpose:** This document is the permanent source of truth for understanding the Campus Marketplace & Resource Hub product. Future development discussions should use this document as the baseline and should not introduce conflicting technology or product assumptions without explicitly discussing the change.
 
 ---
 
