@@ -1,4 +1,4 @@
-﻿# ARCHITECTURE.md — Campus Digital Marketplace & 
+﻿# ARCHITECTURE.md — Campus Digital Marketplace & Resource Hub
 
 > **Status:** Living document. TBD items will be resolved and updated as decisions are made.
 > **Last updated:** 2026-09-15
