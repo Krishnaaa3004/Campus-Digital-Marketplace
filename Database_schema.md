@@ -8,7 +8,7 @@
 
 ---
 
-## 1. Database Overview
+## 1. Data ahh over ahh 
 
 This document defines the PostgreSQL database schema for the Campus Marketplace & Resource Hub MVP.
 
