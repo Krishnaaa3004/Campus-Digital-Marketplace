@@ -1,4 +1,4 @@
-# Campus Digital Marketplace & Resource Hu
+# Campus Digital Marketplace & Resource H
 
 A verified campus marketplace for students to buy, sell, or rent
 used textbooks, dorm equipment, and project components.
